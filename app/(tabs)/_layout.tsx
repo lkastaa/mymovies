@@ -18,8 +18,8 @@ const _layout = () => {
         tabBarStyle: {
           backgroundColor: '#0f0D23',
           borderRadius: 50,
-          marginHorizontal: 20,
-          marginBottom: 20,
+          marginHorizontal: 13,
+          marginBottom: 13,
           height: 52,
           position: 'absolute',
           overflow: 'hidden',
